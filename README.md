@@ -22,4 +22,5 @@ create (s2)
 assign "World!" to (s2)
 join (s1) and (s2)
 print (s1)
+bye
 ~~~
